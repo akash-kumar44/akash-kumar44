@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hey,👋 I'm Akash !!
 
-<!--
-**akash-kumar44/akash-kumar44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+#About Me:
+ •🧒 I am Open Source enthusiast
+ •👨‍🎓 B.Sc. (2nd Year) student
+ •💻 I am passionate about web development, Problem Solving and i enjoy to learn new things
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
