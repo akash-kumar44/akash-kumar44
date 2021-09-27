@@ -3,6 +3,7 @@
  ## About Me:
 👨‍🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science. <br>
 💻 I am passionate about web development, Problem Solving . Technology excites me & I enjoy learning new things.
+###Skills: JAVA, C++, Python, HTML, CSS, JAVASCRIPT,REACT, BOOTSTRAP, Front-end Development
 ## Contact Info: 
 <a href="https://www.linkedin.com/in/akash-kumar-1b6339214/"><img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&ensp;
 <a href="https://twitter.com/akash_bhumbak"><img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>&ensp;
