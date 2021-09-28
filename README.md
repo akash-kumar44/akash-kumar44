@@ -10,7 +10,7 @@
 ### FrameWorks:
 <img src = "https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" /> <img src = "https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"/>
 ## Contact Info: 
-<a href="https://www.linkedin.com/in/akash-kumar-1b6339214/"><img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>
+<a href="https://www.linkedin.com/in/akash-kumar-1b6339214/"><img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&ensp;
 <a href="https://twitter.com/akash_bhumbak"><img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /></a>&ensp;
 <a href="mailto:akashbhumbak44@gmail.com"><img width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a> &ensp;
 <a href="https://www.instagram.com/akash_daanav_/"><img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>
