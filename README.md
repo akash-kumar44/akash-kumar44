@@ -11,7 +11,7 @@
 <img src = "https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" /> <img src = "https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"/>
 
 ## 🚀Github Stats
-<img src = "https://github-readme-stats.vercel.app/api?username=akash-kumar44&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src = "https://github-readme-stats.vercel.app/api?username=akash-kumar44&&show_icons=true&title_color=539bf5&icon_color=539bf5&text_color=22272e&bg_color=fffefe" />
 
 ## Contact Info: 
 <a href="https://www.linkedin.com/in/akash-kumar-1b6339214/"><img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&ensp;
