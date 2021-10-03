@@ -27,7 +27,7 @@
 ## 🚀Github Stats
 <p align = center>
 <img width = 49% src = "https://github-readme-stats.vercel.app/api?username=akash-kumar44&&show_icons=true&title_color=539bf5&icon_color=539bf5&text_color=22272e&bg_color=fffefe" />
-<!---<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kumar44&theme=dark" alt="akash-kumar44" /> --->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kumar44&theme=dark" alt="akash-kumar44" />
 <img width = 49% src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-kumar44&show_icons=true&theme&bg_color=fffefe&title_color=539bf5&text_color=22272e&locale=en&layout=compact" alt="akash-kumar44" />
  </p>
  
