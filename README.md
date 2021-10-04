@@ -5,7 +5,7 @@
 - 💻 I am passionate about web development, Problem Solving . Technology excites me & I enjoy learning new things. <br>
 - 🌏 I’m currently learning **Reactjs, Cloud computing**
 
- <!--![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-kumar44&theme=xcode)-->
+ ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-kumar44&theme=xcode)
 ## 🌟Technologies :  
 
 ### Languages: 
