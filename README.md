@@ -1,7 +1,7 @@
 ### </pre> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />, I'm [Akash](https://github.com/akash-kumar44)
 
 ## 🙎‍♂️About Me
-- 👨‍🎓 Open-Source enthusiast & a junior pursuing Master's in Information Technology(Cyber-Security). <br>
+- 👨‍🎓 Cybersecurity and Open-Source enthusiast, pursuing Master's in Information Technology(Cyber-Security). <br>
 - 💻 I am passionate about web development, Problem Solving . Technology excites me & I enjoy learning new things. <br>
 - 🌏 I’m currently learning **Networking and Operating Systems**
 
