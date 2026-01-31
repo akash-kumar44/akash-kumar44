@@ -3,7 +3,7 @@
 ## 🙎‍♂️About Me
 - 👨‍🎓 Cybersecurity and Open-Source enthusiast, pursuing Master's in Information Technology(Cyber-Security). <br>
 - 💻 I am passionate about web development, Problem Solving . Technology excites me & I enjoy learning new things. <br>
-- 🌏 I’m currently learning **Networking and Operating Systems**
+- 🌏 I’m currently learning **IOT Security**
 
  <!---![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-kumar44&theme=xcode)--->
 ## 🌟Technologies :  
